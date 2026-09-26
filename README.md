@@ -25,7 +25,7 @@ I keep my code organized into individual repositories for each tool. Browse my r
 ### 🧰 Tech Stack & Tools
 
 * **Languages:** Python
-* **AI & ML:** PyTorch, Transformers, HuggingFace, CTranslate2, ComfyUI
+* **AI & ML:** PyTorch, Transformers, HuggingFace, ComfyUI
 * **Environments:** Google Colab, Jupyter Notebooks
 * **CLI & Scripts:** FFmpeg, Aria2c, Bash
 
